@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2016",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "types": ["p5"]
+  },
+  
+  
+  
+}
